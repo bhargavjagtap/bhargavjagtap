@@ -9,5 +9,4 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like Js because it resembles to the human's complex nature 
 <img src="https://github-readme-stats.vercel.app/api?username=bhargavjagtap&show_icons=true&theme=vision-friendly-dark">
-https://img.shields.io/badge/<OS>-<Linux/Win>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a
-
+<img src="https://img.shields.io/badge/<OS>-<Linux/Win>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a">
