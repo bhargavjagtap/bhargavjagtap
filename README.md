@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on Reactjs and Nextjs
 - 🌱 I’m currently learning Reactjs, firebase and redux
