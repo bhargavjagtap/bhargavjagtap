@@ -10,7 +10,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 - ⚡ Fun fact: I like Js because it resembles to the human's complex nature 
 <img src="https://github-readme-stats.vercel.app/api?username=bhargavjagtap&show_icons=true&theme=vision-friendly-dark">
 
-<img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a"> <img src="https://img.shields.io/badge/Framework-Angular/Nextjs/Reactjs/Bootstrap/TailwindCSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a"> <img src="https://img.shields.io/badge/Bucket-Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a">
+<img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a&color=blue"> <img src="https://img.shields.io/badge/Framework-Angular/Nextjs/Reactjs/Bootstrap/TailwindCSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a&color=blue"> <img src="https://img.shields.io/badge/Bucket-Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a&color=blue">
 
 
 
